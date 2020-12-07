@@ -1,0 +1,251 @@
+﻿Country,Province,Confirmed,Died,Recovered
+US,"New York",696125,34919,0
+US,Texas,1312019,23055,0
+US,California,1343283,19883,0
+US,Florida,1049638,19084,0
+US,"New Jersey",368016,17321,0
+US,Illinois,779975,14016,0
+US,Pennsylvania,423100,11255,0
+US,Massachusetts,252017,10953,0
+US,Michigan,426576,10321,0
+US,Georgia,499371,9793,0
+US,Ohio,467432,6946,0
+US,Arizona,358900,6925,0
+US,Louisiana,251123,6584,0
+US,Indiana,381617,6242,0
+US,"North Carolina",388552,5543,0
+US,Connecticut,127715,5146,0
+US,Tennessee,397522,4905,0
+US,Maryland,215027,4846,0
+US,"South Carolina",232099,4566,0
+US,Missouri,329272,4284,0
+US,Virginia,255053,4200,0
+US,Minnesota,350862,4043,0
+US,Mississippi,164931,3961,0
+US,Wisconsin,437918,3934,0
+US,Alabama,269877,3889,0
+US,Colorado,257347,3357,0
+US,Washington,175793,2925,0
+US,Iowa,243981,2682,0
+US,Arkansas,169382,2620,0
+US,Nevada,165628,2301,0
+US,Kentucky,198064,2062,0
+US,Oklahoma,213245,1896,0
+US,Kansas,171363,1786,0
+US,"New Mexico",106856,1738,0
+US,"Rhode Island",62137,1413,0
+US,Nebraska,138568,1194,0
+US,"Puerto Rico",56671,1192,0
+US,"South Dakota",85304,1091,0
+US,Idaho,109705,1032,0
+US,Oregon,83243,1027,0
+US,"North Dakota",82981,1019,0
+US,Utah,212844,939,0
+US,"West Virginia",54997,838,0
+US,Montana,67875,736,0
+Brazil,"Sao Paulo",1285087,42969,1135106
+Brazil,"Rio de Janeiro",370267,23099,338506
+Brazil,"Minas Gerais",438304,10283,397575
+Brazil,Ceara,304443,9693,253736
+Brazil,Pernambuco,189650,9140,167137
+Brazil,Bahia,419044,8388,399262
+Brazil,"Rio Grande do Sul",346801,7166,317132
+Brazil,Para,274545,6944,256661
+Brazil,Goias,285953,6455,275161
+Brazil,Parana,300271,6421,213752
+Brazil,Amazonas,182337,4946,156395
+Brazil,"Espirito Santo",198690,4384,182520
+Brazil,Maranhao,195020,4335,186717
+Brazil,"Mato Grosso",161351,4130,154411
+Brazil,"Santa Catarina",393602,3980,357608
+Brazil,"Distrito Federal",233376,3978,221890
+Brazil,Paraiba,148712,3345,119943
+Brazil,"Rio Grande do Norte",97581,2725,48821
+Brazil,Piaui,130539,2666,127416
+Brazil,Alagoas,96300,2351,92065
+Brazil,Sergipe,91854,2329,84436
+Brazil,"Mato Grosso do Sul",104727,1827,90152
+Brazil,Rondonia,82408,1593,72425
+Brazil,Tocantins,83300,1179,74957
+Brazil,Amapa,61053,826,47531
+Brazil,Roraima,64685,744,61308
+India,Maharashtra,1847509,47694,1715884
+India,Karnataka,891685,11846,854861
+India,"Tamil Nadu",788920,11777,766261
+India,Delhi,589544,9574,553292
+India,"West Bengal",499697,8677,467056
+India,"Uttar Pradesh",553012,7900,522867
+India,"Andhra Pradesh",871305,7024,858115
+India,Punjab,155424,4906,142791
+India,Gujarat,217333,4064,198527
+India,"Madhya Pradesh",213050,3326,196192
+India,Chhattisgarh,245580,2977,223070
+India,Haryana,242398,2564,226524
+India,Rajasthan,278496,2409,252911
+India,Kerala,631615,2390,567694
+India,Odisha,320803,1765,315270
+India,"Jammu and Kashmir",112757,1742,106006
+India,Telangana,273341,1472,263744
+India,Bihar,237552,1292,230630
+India,Uttarakhand,77573,1281,71116
+India,Assam,213662,989,209130
+India,Jharkhand,110186,979,107362
+India,"Himachal Pradesh",44405,721,35437
+India,Goa,48574,697,46493
+Mexico,Mexico,116599,16109,0
+Mexico,"Ciudad de Mexico",229418,13988,0
+Mexico,Veracruz,40427,5932,0
+Mexico,Puebla,40782,5234,0
+Mexico,Jalisco,43324,4999,0
+Mexico,"Nuevo Leon",70119,4680,0
+Mexico,Guanajuato,66516,4232,0
+Mexico,Sonora,45122,3534,0
+Mexico,Coahuila,43269,3525,0
+"United Kingdom",England,1479097,53570,0
+"United Kingdom",Scotland,100106,3916,0
+"United Kingdom",Wales,88992,2709,0
+"United Kingdom","Northern Ireland",55047,1050,0
+France,"-",2290891,54804,146558
+Italy,Lombardia,429109,23024,289706
+Italy,Piemonte,177788,6623,105127
+Italy,"Emilia-Romagna",133761,6162,59432
+Italy,Veneto,165249,4210,84235
+Italy,Toscana,108397,2867,76331
+Italy,Lazio,130255,2622,33422
+Italy,Liguria,53779,2521,40842
+Italy,Campania,165293,1990,62060
+Italy,Sicilia,71489,1759,29984
+Italy,Puglia,64341,1712,16795
+Iran,"-",1040547,50310,730798
+Spain,Madrid,354326,11426,40736
+Spain,Catalonia,310141,8126,26203
+Spain,"Castilla y Leon",123433,4647,8716
+Spain,Andalusia,238783,4296,10671
+Spain,"Castilla - La Mancha",87956,3825,6392
+Spain,"Pais Vasco",99716,2568,16160
+Spain,"C. Valenciana",108586,2444,9970
+Spain,Aragon,74534,2360,3772
+Spain,Galicia,51557,1246,9204
+Spain,Murcia,55116,623,2180
+Argentina,"-",1459832,39632,1288785
+Colombia,"Capital District",387418,8681,355747
+Colombia,Antioquia,220859,4169,204197
+Colombia,"Valle del Cauca",112671,3607,101831
+Colombia,Atlantico,79905,3221,74591
+Colombia,Santander,55434,2067,49845
+Colombia,Cundinamarca,54753,1451,50273
+Colombia,Bolivar,40300,933,37696
+"South Africa","-",810449,22067,744298
+Peru,Lima,432960,16228,0
+Peru,Piura,41271,2128,0
+Peru,Callao,41337,1917,0
+Peru,Arequipa,46703,1546,0
+Russia,Moscow,647562,9349,490844
+Russia,"Saint Petersburg",148153,5830,85461
+Russia,"Moscow Oblast",118235,2252,84273
+Russia,"Rostov Oblast",42056,1475,34144
+Russia,"Nizhny Novgorod Oblast",57376,1260,51544
+Russia,"Sverdlovsk Oblast",48622,1105,40870
+Poland,"-",1063449,20089,706720
+Indonesia,"-",575796,17740,474771
+Germany,Bayern,229868,4291,167823
+Germany,"Nordrhein-Westfalen",284815,3924,215744
+Germany,"Baden-Wurttemberg",164843,3007,118282
+Germany,Hessen,95954,1460,67539
+Germany,Sachsen,68244,1279,41260
+Germany,Niedersachsen,77575,1264,62929
+Germany,Berlin,71088,683,49816
+Germany,"Rheinland-Pfalz",49475,674,31563
+Turkey,"-",828295,14900,431253
+Ecuador,"-",197998,13778,174188
+Iraq,"-",564200,12432,493567
+Romania,"-",513576,12320,405612
+Canada,Quebec,151599,7255,128828
+Canada,Ontario,130184,3784,112544
+Canada,Alberta,66730,596,47328
+Chile,Metropolitana,307311,10424,294279
+Bolivia,"-",145492,8992,124596
+Czechia,"-",546259,8865,476710
+Philippines,"-",439834,8554,408634
+Netherlands,"Zuid-Holland",154813,2414,0
+Netherlands,"Noord-Brabant",88647,2086,0
+Netherlands,"Noord-Holland",99889,1331,0
+Netherlands,Gelderland,56489,1088,0
+Netherlands,Utrecht,47185,720,0
+Pakistan,Punjab,122955,3162,99310
+Pakistan,Sindh,182473,3011,158567
+Pakistan,"Khyber Pakhtunkhwa",49220,1404,44167
+Bangladesh,"-",477545,6838,395960
+Egypt,"-",118014,6750,103324
+Morocco,"-",379657,6245,331301
+Ukraine,Kiev,79809,1425,25082
+Ukraine,"Lviv Oblast",49831,1354,33125
+Ukraine,"Dnipropetrovsk Oblast",44080,1029,26813
+Ukraine,"Kharkiv Oblast",59285,803,38354
+Ukraine,"Kiev Oblast",43219,744,15735
+Ukraine,"Odessa Oblast",51148,660,14256
+"Saudi Arabia","-",358713,5965,348879
+Hungary,"-",250278,5868,71682
+Switzerland,"-",344497,5344,260600
+Portugal,"-",322474,4963,243055
+Bulgaria,"-",160844,4729,60673
+China,Hubei,68149,4512,63633
+Guatemala,"-",125550,4250,114315
+Austria,"-",303430,3840,252765
+Sweden,Stockholm,82014,2793,0
+Sweden,"Vastra Gotaland",45740,1032,0
+Tunisia,"-",102991,3526,76441
+Panama,"-",175907,3173,151247
+Jordan,"-",240089,3056,187444
+Greece,"-",115471,3003,23074
+"Bosnia and Herzegovina","-",94507,2952,58625
+Honduras,"-",110723,2945,49311
+Israel,"-",344798,2915,328734
+Algeria,"-",87502,2501,56617
+Kazakhstan,"-",179344,2488,151134
+Moldova,"-",116365,2419,101244
+"Dominican Republic","-",148453,2345,116873
+Armenia,"-",141937,2326,116796
+Croatia,"-",150353,2174,124439
+Burma,"-",99155,2110,77636
+Ireland,"-",74246,2099,23364
+Serbia,"-",219652,1949,0
+"North Macedonia","-",67968,1924,43646
+Afghanistan,"-",47306,1874,37685
+Paraguay,"-",87213,1833,61283
+"Costa Rica","-",143685,1773,95789
+Ethiopia,"-",113295,1747,80831
+Slovenia,"-",85805,1744,63580
+Azerbaijan,"-",146679,1632,88497
+Nepal,"-",240981,1594,225805
+Kenya,"-",88380,1526,68929
+Georgia,"-",162475,1504,133511
+Oman,"-",124886,1444,116354
+Kyrgyzstan,"-",74973,1295,66993
+Libya,"-",86580,1231,56702
+Belarus,"-",147157,1207,124774
+Nigeria,"-",68937,1180,64650
+Kosovo,"-",42805,1106,28504
+Lebanon,"-",135876,1090,88096
+Slovakia,"-",116731,996,82666
+Venezuela,"-",104177,916,98879
+Albania,"-",42988,905,21617
+Kuwait,"-",144369,891,140035
+Denmark,"-",90603,885,70876
+"West Bank and Gaza","-",98038,828,72773
+Lithuania,"-",74649,626,30390
+Uzbekistan,"-",73904,611,71173
+"United Arab Emirates","-",176429,592,159132
+Japan,Tokyo,43753,486,38383
+Malaysia,"-",72694,382,61273
+Bahrain,"-",87732,341,85876
+Ghana,"-",52198,325,51019
+Qatar,"-",139908,239,137276
+Singapore,"-",58260,29,58158
+Belgium,Antwerp,69720,0,0
+Belgium,Brussels,77458,0,0
+Belgium,"East Flanders",55899,0,0
+Belgium,"Flemish Brabant",45070,0,0
+Belgium,Hainaut,95030,0,0
+Belgium,Liege,92690,0,0
+Belgium,"West Flanders",46052,0,0
